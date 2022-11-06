@@ -131,6 +131,7 @@ SIMBOLO PARA ISSO É O MAIS (+)*/
     animation: appear .3s forwards;
 }
 
+
 @keyframes appear {
     0% {
         transform: translateY(-50px);
